@@ -1,7 +1,4 @@
 # ─── Secrets / environment (NEVER COMMIT) ───────────────────────────────
-.env
-**/.env
-.env.local
 **/.env.local
 .env.*.local
 **/.env.*.local
@@ -38,9 +35,13 @@ broadcast/
 # ─── Tooling / editor / OS ─────────────────────────────────────────────────
 .claude/
 **/.claude/
-.vscode/
 .idea/
 .DS_Store
 Thumbs.db
 coverage/
 dist/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat

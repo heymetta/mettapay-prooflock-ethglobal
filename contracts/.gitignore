@@ -1,0 +1,12 @@
+node_modules
+artifacts
+cache
+typechain-types
+dist
+.env
+*.log
+
+# Foundry
+out
+lib
+broadcast
